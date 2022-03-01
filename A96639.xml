@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Willoughby of Parham, his letter to an honorable member of the House of Parliament. His Majesties letter to the Lord Willoughby of Parham. The Lord Willoughby of Parham his letter, in answer, to His Maiesties. With the message of the Lords to the House of Commons upon the said letters. As also the Lord of Warwicks letter to his brother the Earle of Holland. And the declaration or resolution of the officers in the county of Essex, to the Earl of Warwick, lord lievtenant of that county. With the approbation of both houses concerning the same.</title>
+            <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96639</idno>
+            <idno type="STC">Wing W2860</idno>
+            <idno type="STC">Thomason E150_4</idno>
+            <idno type="STC">ESTC R15128</idno>
+            <idno type="EEBO-CITATION">99859804</idno>
+            <idno type="PROQUEST">99859804</idno>
+            <idno type="VID">111903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111903)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Willoughby of Parham, his letter to an honorable member of the House of Parliament. His Majesties letter to the Lord Willoughby of Parham. The Lord Willoughby of Parham his letter, in answer, to His Maiesties. With the message of the Lords to the House of Commons upon the said letters. As also the Lord of Warwicks letter to his brother the Earle of Holland. And the declaration or resolution of the officers in the county of Essex, to the Earl of Warwick, lord lievtenant of that county. With the approbation of both houses concerning the same.</title>
+                  <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). aut</author>
+               </titleStmt>
+               <extent>8, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscott, and Iohn Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111903:1"/>
+            <pb facs="tcp:111903:1" rendition="simple:additions"/>
+            <p>The Lord <hi>Willoughby</hi> of <hi>Parham,</hi> his Letter to an Honorable Member of the Houſe of Parliament.</p>
+            <p>His Majeſties Letter to the Lord <hi>Willoughby</hi> of <hi>Parham.</hi>
+            </p>
+            <p>The Lord <hi>Willoughby</hi> of <hi>Parham</hi> his Letter, in anſwer, to His Maieſties.</p>
+            <p>WITH The <hi>Meſſage</hi> of the Lords to the Houſe of Commons upon the ſaid Letters.</p>
+            <p>As alſo The Lord of <hi>Warwicks</hi> Letter to his brother the Earle of <hi>Holland.</hi>
+            </p>
+            <p>AND The Declaration or Reſolution of the Officers in the County of <hi>Eſſex,</hi> to the Earle of <hi>Warwick,</hi> Lord Lievte<g ref="char:EOLhyphen"/>nant of that County.</p>
+            <p>With the Approbation of both Houſes concerning the ſame.</p>
+            <p>Printed for <hi>Joſeph Hunſcott,</hi> and <hi>Iohn Wright.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:111903:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 9. Junii, 1642.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords in Parliament, That theſe ſeverall Letters, and Reſolutions ſhall be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>Joh. Brown, Cler. Parliament.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:111903:2"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received a Letter from your Lord<g ref="char:EOLhyphen"/>ſhip, in which the Houſe is pleaſed to do me a very great Honour, farre above any deſert of mine, and little expected by me: for my Lord, I well know my obedience tyes me to fulfill their Commands, and in that I have done, I have done but my duty, and that which every honeſt man ought to do, and oweth of right to the Parliament; and whoſoever hath that principle in him, it will dictate to him as much, and keep him from other by-wayes: And for my own part, my heart ever was, and ſhall ever be, both forward and ready to obey their Lordſhips Commands in all things, both with Integrity and Induſtry, and Gods curſe light upon him and his, that carryes any other heart about him. My Lord, it is too mean a way for me to expreſſe my acknowledgement in paper, to the Houſe for this high favour which I have received by your Lordſhips Letter. I hope to make it appear by my actions that then Lordſhips ſee, I am not an ungratefull ſervant. It is a great encouragement to theſe parts, their Lordſhips Reſolutions, in giving their Commands to have the reſt of the <hi>Militia</hi> put in preſent execution; and truly, my Lord, it was out of that regard that I did intimate it to my Lord of <hi>Eſſex,</hi> as holding it a thing much conducing to the publike good, and the on<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:111903:3"/>remedy to cure theſe diſtractions which the Kingdom is in, not out of any regard to my ſelf; for I know, if I ſuffer in executing their Lordſhips commands, it muſt be againſt their wills, and when that day comes, I will not give a ſtraw for all I have, were I but a looker on. My Lord, as I was this day at <hi>Lincoln,</hi> where I appointed to begin to Muſter, there came a Meſſenger from His Ma<g ref="char:EOLhyphen"/>jeſty, with this Letter, which I held it my duty to ac<g ref="char:EOLhyphen"/>quaint the Houſe with, and likewiſe my anſwer, and am for <hi>Lincoln,</hi> where, as in all other places, I ſhall be ready to ſerve your Lordſhip,</p>
+            <closer>
+               <signed>As your moſt humble ſervant, <hi>F. WILLOUGHBY.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>MY Lord,</salute>
+               </opener>
+               <p>ere my Letter was ſealed up, I could not but give your Lordſhip an accompt, in how good a Poſture I found the Trained Bind of <hi>Lincoln,</hi> which was farre beyond my expectation, conſidering the unhappineſſe in the ſickneſſe, being diſperſed in the Town, which hindred the appearance of ſome; But truly my Lord that was fully ſupplyed by a Company of Voluntiers, equall in number and goodneſſe of Arms to the Trained Bands.</p>
+               <closer>
+                  <dateline>Lincoln, <date>6. Iune. 1642.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:111903:3"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> SOIT QVI MAL Y PEN<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon flanked by English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>CHARLES REX.</signed>
+               <salute>
+                  <seg rend="decorInit">R</seg>Ight truſty and welbeloved, We greet you well.</salute>
+            </opener>
+            <p>Whereas We underſtand, That you have begun to aſſemble, Train, and Muſter the Trained-Bands of our County of <hi>Lincoln,</hi> under pretence of an Ordinance of Parliament, whereto We have not given our Conſent; Which is not only contrary to Law, but to Our Com<g ref="char:EOLhyphen"/>mand and Pleaſure, ſignified by Our Proclamation ſent to the high Sheriff of that Our County: Wherefore, That you may not hereafter plead Ignorance of ſuch Our Prohibition; We do, by theſe Our Letters, Com<g ref="char:EOLhyphen"/>mand, and charge you, upon your Allegiance, to deſiſt and forbear to Raiſe, Muſter, Train, Exerciſe, or Aſſemble together any part of the Trained Bands of that Our County, either by your ſelf, or by any others imployed under you, or by Warrant from you. And becauſe you may, for what you have already done, con<g ref="char:EOLhyphen"/>cerning
+<pb n="6" facs="tcp:111903:4"/>the <hi>Militia</hi> of that Our County, plead, that you had not ſo particular a Command, We ſhall paſſe by what you have already done therin, So as preſently upon your receipt hereof, you ſhall deſiſt and give over med<g ref="char:EOLhyphen"/>ling any further with any thing belonging to the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> of that Our County; But if you ſhall not preſently deſiſt, and forbear medling therewith, We are reſolved to call you to a ſtrict Accompt for your Diſobedience therein, after ſo many particular and legall Commands given you, upon your Allegiance to the contrary, and ſhall eſteem and proceed againſt you as a diſturber of the peace of Our Kingdom.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>York,</hi> 
+                  <date>the fourth of<hi>June.</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>To Our right truſty and welbeloved the Lord <hi>Willoughby</hi> of <hi>Parham.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:111903:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S there can be nothing of greater unhappi<g ref="char:EOLhyphen"/>neſſe to me, then to receive a Command from your Majeſtie, whereunto my endea<g ref="char:EOLhyphen"/>vours cannot give ſo ready an obedience, as my affections: ſo I muſt confeſſe the diffi<g ref="char:EOLhyphen"/>culty at this time not a little, how to ex<g ref="char:EOLhyphen"/>preſſe that duty which I owe to your Majeſties late Com<g ref="char:EOLhyphen"/>mands, and not falſifie that Truſt repoſed in me by your high Court of Parliament; through whoſe particular di<g ref="char:EOLhyphen"/>rections I am now come into this County to ſettle the Militia, according to the Ordinance of Parliament, which by the Votes of my Lord <hi>Littleton</hi> and others in the Houſe of Peers, better verſed in the Laws then my ſelf, paſſed as a Legall thing; and hath ſince been confirm<g ref="char:EOLhyphen"/>ed (if I miſtake not) by his example, and your Majeſties Chief Juſtice, Sir <hi>John Banks,</hi> both in accepting their Ordinance, and nominating their Deputy-Lieutenants: how much farther they proceeded, I know not.</p>
+            <p>But Sir, if the opinions of thoſe great Lawyers drew me into an act unſuitable to your Majeſties liking: I hope the wart of yeers will excuſe my want of judgement. And ſince the Command of the Parliament, I am now ſo far ingaged in their ſervice as the ſending out Warrants to ſummon the County to meet me this day at <hi>Lincoln,</hi> and
+<pb n="8" facs="tcp:111903:5"/>afterwards in other places: I do moſt humbly beſeech your Majeſty not to impoſe that Command on me, which muſt needs render me falſe to thoſe that relve on me, and ſo make me more unhappier then any other miſery can fall upon me.</p>
+            <p>Theſe things, Sir, I once more humbly beſeech your Majeſtie may be taken into your gracious conſideration, and that you would never be pleaſed to harbour any miſ<g ref="char:EOLhyphen"/>conceit of me, or of this action, ſince nothing hath yet paſſed by my Commands here, or ever ſhall; but what ſhall tend to the honour and ſafety of your Majeſties Per<g ref="char:EOLhyphen"/>ſon, to the preſervation of the peace of your Kingdom, and to the content (I hope) of all your Majeſties Subjects in theſe parts; amongſt which I remain</p>
+            <closer>
+               <signed>
+                  <hi>YOUR MAJESTIES <hi>Moſt humble, and moſt dutifull S<g ref="char:V">Ʋ</g>BJECT</hi> and <hi>SERVANT,</hi> F. WILLOVGHBY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:111903:5"/>
+            <head>THE MESSAGE OF THE LORDS TO THE Houſe of Commons, UPON The Lord WILLOUGHBY of <hi>Parham,</hi> His Letter and ſervice in the execution of the <hi>Ordinance,</hi> concerning the <hi>MILITIA.</hi>
+            </head>
+            <p>THe Lords have thought fit to let you know, how much they valew and approve the endeavors of this Lord, in a ſervice ſo much impor<g ref="char:EOLhyphen"/>ting the ſafety of this Kingdome; and they doubt not of your readineſſe to concurre with them, upon all occaſions to manifeſt; the ſence they have, and ſhall retaine of his deſervings,
+<pb facs="tcp:111903:6"/>which appeares the greater, by how much the difficulties (by thoſe circumſtances you have heard read) have been greater. And as my Lords reſolve to make his intereſt their owne, in this ſervice, for the publique good, and ſafe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of this Kingdome, ſo they deſire you to joyne with them, in ſo good and neceſſary a worke.</p>
+            <p>Reſolved by the Houſe of Commons to joyne with the Lords in this vote, and doe make the like reſolution for the deputy Lieu<g ref="char:EOLhyphen"/>tenants for the County of <hi>Lincolne,</hi> and deſire the Lords concurrence therein.</p>
+            <p>Ordered by the Lords in Parliament, That they agree with the Houſe of Commons, for the reſolution concerning the Deputy-Lieu<g ref="char:EOLhyphen"/>tenants of the County of <hi>Lincolne.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:111903:6"/>
+            <head>TO My Noble Brother the Earle of HOLLAND.</head>
+            <opener>
+               <salute>Brother.</salute>
+            </opener>
+            <p>IN obedience to the order of both Houſes of Par<g ref="char:EOLhyphen"/>liament, I this day repaired to <hi>Burntwood</hi> (where about one fourth part of the Trayned bands of <hi>Eſſex,</hi> were appointed to meete) for putting of the ordinance for the Militia of this County in execution. I ſaw five Compaines drawne out, being of the ordinary trayned Bands (and all that were deſigned to this place) whole numbers I found full, and their Armies compleat. For though about three<g ref="char:EOLhyphen"/>ſcore Armes had beene formerly taken out of each company for the late ſervice about <hi>Scotland,</hi> yet a full ſupply was made by Volunteers, and one of the ſaid five Compaines (being under the conduct of Sir <hi>VVilliam Maſhams</hi> ſonne) was double to the uſuall liſt. A ſixth Company was drawne out, which conſiſted of neere five hundred able men, who came as volun<g ref="char:EOLhyphen"/>teers under the command of Sir <hi>Thomas Baringtons</hi> younger ſon. I cauſed the Declaration of both houſes made for their indemnity, to be read at the head of each company. And required the Captaines, Officers, and Souldiers to be obedient to ſuch directions as ſhould be conveyed to them from me, or my deputy Lieutenants, according to the ſaid ordinance for the
+<pb facs="tcp:111903:7"/>ſervice of his Majeſty and the Parliament in defence of the Kingdome. To which they did unanimouſly manifeſt a reſolution and reſpect, and a cheerfull readi<g ref="char:EOLhyphen"/>neſſe, therein to ſpend their lives and fortunes. Here<g ref="char:EOLhyphen"/>of I thought fit to give your Lordſhip this briefe ac<g ref="char:EOLhyphen"/>compt praying you to communicate the ſame to their Lordſhips, I having deſired my deputy Lieutenants to doe the ſame to the Houſe of Commons. I have this day received a petition from the Captaines and Liev<g ref="char:EOLhyphen"/>tenants of the ſeverall companies here aſſembled, in the name of all the perſons belonging to the ſaid tray<g ref="char:EOLhyphen"/>ned bands, and with their full conſent expreſſed upon the reading of it, by their generall acclamations, and applauſe, in their ſeverall Companies, whereof I ſend your Lordſhip a copy here incloſed, And ſo deſiring from God a bleſſing upon all your counſells, I reſt,</p>
+            <closer>
+               <dateline>Burntwood <date>the 7. of <hi>Iune,</hi> 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips affectionate Brother, <hi>WARVVICK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="official_resolutions">
+            <pb facs="tcp:111903:7"/>
+            <head>TO THE RIGHT HONOVRABLE, ROBERT Earle of <hi>Warwicke,</hi> Lord Lieutenant of the County, of <hi>Eſſex:</hi> and to the Right Worſhipfull and worthy Gentlemen, the Deputy Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utenants of the ſame County, confided in by the moſt Honourable, the <hi>High Court of Parliament.</hi>
+            </head>
+            <p>WE the Captaines and Lieutenants with the full conſent of the Trained-Bands and Vo<g ref="char:EOLhyphen"/>lontiers of the ſaid County now aſſembled, having before the acceſſe of this preſent Par<g ref="char:EOLhyphen"/>liament ſeen our Religion, our Lawes our liberties and eſtates brought to the brinke of ruine and ſubverſion by the reſults of moſt deſperate and wicked Councels, could not but with exceeding joy behold the aſſembling and continu<g ref="char:EOLhyphen"/>ance of ſo great and faithfull a Councell (the repreſentative body of this Kingdome) and with moſt certaine confidence commit therero all that was deere unto us.</p>
+            <p>And having alſo ſeen the late helliſh deſignes and actings of a M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lignant party of this Kingdome, and the bloody rebellion in <hi>Ireland,</hi> all working to retard the progreſſe, or ſubvert the, being of this worthy Parliament, and therein to bereave us of all our hopes of Reformation, or future peace or happineſſe to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Church or Kingdome, We cannot but aſcribe all glory and praiſe unto the Lord of Lords, and expreſſe moſt hearty thankfulneſſe unto his bleſſed Inſtruments that great Aſſembly, for their un<g ref="char:EOLhyphen"/>danted Reſolutions, unparalleld endeavours, and happy procee<g ref="char:EOLhyphen"/>dings for the common good. And herein (as not the leaſt meanes of our ſafety) for the moſt neceſſary and ſeaſonable Ordinance of theirs touching the ordering of the Militi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, whereby we are put under the command and guidance of ſo Noble a Lord, and
+<pb facs="tcp:111903:8"/>ſuch worthy Gentlemen, whereunto We humbly deſire this pre<g ref="char:EOLhyphen"/>ſent day and meeting may be an Evidence and pledge of our free and willing obedience.</p>
+            <p>And having entruſted our Religion, our Lawes, and all into the hands of that great and moſt faithfull Councell the Parlia<g ref="char:EOLhyphen"/>ment, whoſe care and fidelity we have ſo abundantly found, we even bleed to ſee the heart and actions of our Royall King (con<g ref="char:EOLhyphen"/>trary to his owne Royall expreſſions) declining from the Coun<g ref="char:EOLhyphen"/>cels of His Parliament, and carried after other Counſels, whom, as the Lawes and Conſtitutions of this Land have not knowne, nor repoſed upon: ſo we (for our owne parts) neither will nor dare intruſt with our Religion or Lawes. And whom we verily beleeve, could they prevaile againſt that higheſt Court (under God our chiefeſt Bulwarke and defence) would ſoone deprive us both of Religion and Law, and (notwithſtanding all their ſpeci<g ref="char:EOLhyphen"/>ous pretences) reduce us to a condition no leſſe miſerable then ſlaviſh.</p>
+            <p>From the deepe apprehenſions of all which we doe freely and heartily promiſe and tender our perſons and eſtates to aſſiſt and defend (to the uttermoſt) the high Court of Parliament now aſ<g ref="char:EOLhyphen"/>ſembled, the members, power, and priviledges thereof, and there<g ref="char:EOLhyphen"/>in His Majeſties perſon and authority, and the Kingdomes peace, (according to our late Proteſtation) againſt all contrary counſels, power, and force of Armes whatſoever, which ſhall be reard up, or attempted againſt them.</p>
+            <p>And this our humble acknowledgement and reſolution (which we doubt not will be accorded unto by all good ſubjects) we humbly deſire your Honour and Worſhips to tender on our be<g ref="char:EOLhyphen"/>halfe unto that moſt Honourable Aſſembly of Parliament.</p>
+            <p>For whoſe happy progreſſe and ſucceſſe we ſhal daily pray.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Trained-Bands.</head>
+                     <item>Captaine <hi>Kitely.</hi>
+                     </item>
+                     <item>Captaine <hi>Henry Farr.</hi>
+                     </item>
+                     <item>Captaine <hi>Iohn Ballet.</hi>
+                     </item>
+                     <item>Captaine <hi>Iohn Fleming.</hi>
+                     </item>
+                     <item>Captaine <hi>W. Marſham.</hi>
+                     </item>
+                     <item>Lieutenant. <hi>Tho. Harper.</hi>
+                     </item>
+                     <item>Lieutenant. <hi>Jo. VVoodcock.</hi>
+                     </item>
+                     <item>Lieutenant. <hi>Rich. Lawrence.</hi>
+                     </item>
+                     <item>Lieutenant. <hi>Geo. Colwell.</hi>
+                     </item>
+                     <item>Lieutenant. <hi>Tho. Clarke.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Volontiers.</head>
+                     <item>
+                        <hi>Robert Barington,</hi> Captaine.</item>
+                     <item>
+                        <hi>William Burls,</hi> Lieutenant.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_approbation_of_resolutions">
+            <pb facs="tcp:111903:8"/>
+            <p>THe Lords and Commons in Parliament aſſembled, being advertiſed by the Lord Lievtenant, and Deputy Lieutenants of the County of <hi>Eſſex,</hi> of their ready, full, and forward meeting of the Tray-Bands of that County; and of a cheerefull acceſſe, of a very conſiderable number of Volunteers, at their firſt appearing; Have thought fit, to expreſſe unto them, the good ſence they hold of their proceed<g ref="char:EOLhyphen"/>ings, ſo much conducing to the Generall ſafty of this Kingdome; And having likewiſe received from them a Declaration full of affections, and good inclina<g ref="char:EOLhyphen"/>tions, to maintaine our Religion, Lawes, Liberties, and Priveledges of Parliament; Which they obſerve to be invaided by pernicious Councell, as indeed they have beene of late, in a more dangerous, and high manner then any age can parallel: And ha<g ref="char:EOLhyphen"/>ving very prudently obſerved, in a right under<g ref="char:EOLhyphen"/>ſtanding, That the Kingdome, and the Kings autho<g ref="char:EOLhyphen"/>rity and Perſon, can be no wayes maintained, but by the upholding the power and priviledges of Parlia<g ref="char:EOLhyphen"/>ment: as by the late Proteſtation they acknowledge themſelves bound unto, againſt all contrary Coun<g ref="char:EOLhyphen"/>cils, Power, and force of Armes whatſoever. This juſt and faithfull reſolution of theirs, to the publique
+<pb facs="tcp:111903:9"/>good; The Lords and Commons doe not onely ap<g ref="char:EOLhyphen"/>prove, but commend, aſſuring them, that as their en<g ref="char:EOLhyphen"/>deavors have been for the peace and happineſſe of the King and Kingdome; So they will perſiſt, in diſcharge of the great and publique truſt, which lies upon them; to goe through all difficulties which may oppoſe the publique peace and welfare of this Kingdome; And will upon all occaſions, bee ready to expreſſe particularly, to thoſe perſons, that reſpect which is due to perſons from whom they have receaved ſuch aſſurance of their affections and fidelities.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111903:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
